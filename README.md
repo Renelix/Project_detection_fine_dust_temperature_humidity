@@ -10,3 +10,4 @@ The project is divided into two source codes, one to be loaded into the ESP8266 
 
 Attached to the source files there is also the circuit diagram of the project.
 Project realized by Antonio Caiafa
+![Circuito](https://user-images.githubusercontent.com/65813031/194718366-961674a3-c3b9-420d-aecf-33479e831c93.png)
