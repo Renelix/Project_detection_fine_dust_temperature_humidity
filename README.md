@@ -7,3 +7,6 @@ Cards and sensors used:
   - DHT22 temperature and humidity detection sensor.
 
 The project is divided into two source codes, one to be loaded into the ESP8266 board which detects the data through the sensors and another for the real-time reading of the information and its transcription in a text file with the relative wave function.
+
+Attached to the source files there is also the circuit diagram of the project.
+Project realized by Antonio Caiafa
